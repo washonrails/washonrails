@@ -18,4 +18,4 @@
 • ⚒: <strong>Neovim , Arch BTW , Shell Script </strong>
  </p>
  <br />
-<a href = ""><img src="https://www.codewars.com/users/Diogo-ss/badges/micro" min-width="200px" max-width="200px"></a>
+<a href = ""><img src="https://www.codewars.com/users/washonrails/badges/large" min-width="200px" max-width="200px"></a>
