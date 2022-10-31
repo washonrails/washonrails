@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-• 💻: <strong>RoR 💎 , PHP , Javascript</strong>
+• 💻: <strong> Bash , PHP , Javascript</strong>
 </p>
 
 <p align="left">
