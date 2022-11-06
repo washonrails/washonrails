@@ -3,18 +3,20 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 
-### Hi, Dev <img src="" width="3px">
+### Im wash , Web Developer <img src="" width="3px">
 
 <p align="left"> 
-  🤯 I'm a beginner in the programming world, focusing on fullstack.
+  Diogo's partner and sub-owner of <b>HydraVim 👨🏻‍💻</b><br>
+  Download new release of <b>Hydra</b> 📥<br>
+        Link : https://github.com/HydraVim/HydraVim
 </p>
 
 <p align="left">
-• 💻: <strong> Bash , PHP , Javascript</strong>
+• 💻: <strong> Bash , Crystal , Javascript , Ruby</strong>
 </p>
 
 <p align="left">
-• ⚒: <strong>Neovim , Arch BTW , Shell Script </strong>
+• ⚒: <strong>HydraVim , Arch Linux , Shell Script </strong>
  </p>
  <br />
 <a href = ""><img src="https://www.codewars.com/users/washonrails/badges/large" min-width="200px" max-width="200px"></a>
