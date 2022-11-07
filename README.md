@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-• 💻: <strong> Bash , Crystal , Javascript , Ruby</strong>
+• 💻: <strong> Elixir , Ruby , Javascript , GO and Crystal Student</strong>
 </p>
 
 <p align="left">
