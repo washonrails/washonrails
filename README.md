@@ -6,7 +6,7 @@
 ### Im wash , Web Developer <img src="" width="3px">
 
 <p align="left"> 
-  Diogo's partner and sub-owner of <b>HydraVim 👨🏻‍💻</b><br>
+  <b>HydraVim 👨🏻‍💻</b> Sub-owner <br>
   Download new release of <b>Hydra</b> 📥<br>
         Link : https://github.com/HydraVim/HydraVim
 </p>
