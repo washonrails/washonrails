@@ -16,7 +16,9 @@
 </p>
 
 <p align="left">
-• ⚒: <strong>HydraVim , Arch Linux , Shell Script </strong>
+• ⚒: <strong>HydraVim , Void Linux , Shell Script </strong>
  </p>
  <br />
 <a href = ""><img src="https://www.codewars.com/users/washonrails/badges/large" min-width="200px" max-width="200px"></a>
+
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=washonrails&row=1)](https://github.com/ryo-ma/github-profile-trophy)
