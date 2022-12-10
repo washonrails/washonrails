@@ -15,7 +15,7 @@
 ### 
 
 <p align="center">
-      <b> Web Developer focusing on Fullstack </b> <br>
+      <b> Web Developer focusing on Fullstack </b> <br><br>
 • 💻: <strong>Ruby , Javascript , Rust and GO Student</strong>
 </p>
 
