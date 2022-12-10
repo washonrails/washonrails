@@ -1,3 +1,5 @@
+<p  align="right" > 
+
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -7,24 +9,23 @@
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### Im wash , Web Developer
-
-<p align="left"> 
-  <b>HydraVim</b> Sub-owner <br>
 </p>
 
-<p align="left">
+
+### Im wash , Web Developer
+
+<p align="center">
 • 💻: <strong>Ruby , Javascript , Rust and GO Student</strong>
 </p>
 
-<p align="left">
-• ⚒: <strong>HydraVim , Void Linux , Shell Script </strong>
- </p>
+<p align="center">
+• ⚒: <strong>HydraVim , Linux , Shell Script </strong>
+</p>
  <br />
-  
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=washonrails&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="center"> 
-  Visitor count<br>
+  <b>Visitor count</b>
+    <br>
+    <br>
   <img src="https://profile-counter.glitch.me/washonrails/count.svg" />
 </p>
