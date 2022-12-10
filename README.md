@@ -12,9 +12,10 @@
 </p>
 
 
-### Im wash , Web Developer
+### 
 
 <p align="center">
+      <b> Web Developer focusing on Fullstack </b> <br>
 • 💻: <strong>Ruby , Javascript , Rust and GO Student</strong>
 </p>
 
