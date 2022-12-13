@@ -38,5 +38,7 @@
 <br>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=washonrails&theme=react-dark)](https://github.com/washonrails/github-readme-activity-graph)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=524EB1&height=120&section=footer"/>
