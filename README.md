@@ -24,13 +24,13 @@
  ### Main skills:
 ![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=Rust&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&labelColor=0D1117)&nbsp;
 
 
 
 ### Studying in this moment:
 ![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=Rust&labelColor=0D1117)&nbsp;
 ![Go](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-0D1117?style=for-the-badge&logo=ruby&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
