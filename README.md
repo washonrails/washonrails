@@ -22,9 +22,8 @@
  </div>
  
  ### Main skills:
-![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=Rust&labelColor=0D1117)&nbsp;
+![Ruby](https://img.shields.io/badge/-Ruby-0D1117?style=for-the-badge&logo=ruby&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-
 
 
 ### Studying in this moment:
