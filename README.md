@@ -4,44 +4,40 @@
   <h1 text-align="center" align="center"> Hello I am wash , Web Developer </h1>
 </p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=washonrails&show_icons=true&count_private=true&hide_border=true&title_color=5b54f6&icon_color=3801f4&text_color=c9d1d9&bg_color=0d1117" alt="Wallace Henrique Github Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washonrails&layout=compact&hide_border=true&title_color=5b54f6&text_color=ff91a4&bg_color=0d1117" />
+<div align="center">
+  <a href="" >
+      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=washonrails&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washonrails&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    <img width="97%" src="https://github-readme-activity-graph.cyclic.app/graph?username=washonrails&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=000&bg_color=0&theme=graywhite" />
+  </a>
 </div>
 
+
+![notify-banner](https://user-images.githubusercontent.com/28717686/209453572-aa7523b5-2b30-43bc-87f4-ac2a2ad7edf0.png)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=washonrails&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center"> 
-<a href="https://instagram.com/wallaceonvoid" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<!--<a href="https://www.youtube.com/channel/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-<a href = "mailto:cmp.1a.iamx.3ur@protonmail.com"> <img src="https://img.shields.io/badge/-ProtonMail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+## ✨ Connect on Networks
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/washonrails/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank"/>
+  </a>&ensp;
+  <a href="https://twitter.com/wa.sh/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" target="_blank"/>
+  </a>&ensp;
+  <a href="https://www.instagram.com/washonrails/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" />
+  </a>&ensp;
  
- ### Main skills:
-
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-0D1117?style=for-the-badge&logo=ruby&labelColor=0D1117)&nbsp;
-
-
-### Studying in this moment:
-![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117)&nbsp;
-![Postgresql](https://img.shields.io/badge/-Postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![NGINX](https://img.shields.io/badge/-NGINX-0D1117?style=for-the-badge&logo=nginx&labelColor=0D1117)&nbsp;
-
+  <br>
+  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img src="https://profile-counter.glitch.me/washonrails/count.svg" /></p> 
 <br>
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=washonrails&theme=react-dark)](https://github.com/washonrails/github-readme-activity-graph)
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=524EB1&height=120&section=footer"/>
