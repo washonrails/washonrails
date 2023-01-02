@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/washonrails/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" target="_blank"/>
   </a>&ensp;
-  <a href="https://twitter.com/wa.sh/">
+  <a href="https://twitter.com/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" target="_blank"/>
   </a>&ensp;
   <a href="https://www.instagram.com/washonrails/">
