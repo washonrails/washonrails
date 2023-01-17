@@ -4,14 +4,6 @@
   <h1 text-align="center" align="center"> Hello I am wash , Web Developer </h1>
 </p>
 
-<div align="center">
-  <a href="" >
-      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=washonrails&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=washonrails&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-    <img width="97%" src="https://github-readme-activity-graph.cyclic.app/graph?username=washonrails&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&text_color=000&icon_color=000&bg_color=0&theme=graywhite" />
-  </a>
-</div>
-
 
 ![notify-banner](https://user-images.githubusercontent.com/28717686/209453572-aa7523b5-2b30-43bc-87f4-ac2a2ad7edf0.png)
 
