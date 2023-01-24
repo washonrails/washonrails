@@ -1,7 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=524EB1&height=120&section=header"/>
 
 <p align="center">
-  <h1 text-align="center" align="center"> Hello I am wash , Web Developer </h1>
+  <h1 text-align="center" align="center"> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
+    Hi little lost , i'am wash web developer 
+  </h1>
 </p>
 
 
@@ -11,7 +14,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=washonrails&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-## 🦊 Connect with me 🦊 
+## 🦊 Connect with me 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/washonrails/">
