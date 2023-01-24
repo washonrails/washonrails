@@ -35,7 +35,7 @@
 
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img src="https://profile-counter.glitch.me/washonrails/count.svg" /></p> 
+  <p align="center"><img src="https://count.getloli.com/get/@:washonrails?theme=asoul" alt=":washonrails" /></p> 
   <br>
 </div>
   
