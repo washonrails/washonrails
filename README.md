@@ -26,6 +26,9 @@
   <a href="https://www.instagram.com/washonrails/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" />
   </a>&ensp;
+  <a href="https://www.instagram.com/washonrails/">
+    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" target="_blank" />
+  </a>&ensp;
  
   <br>
   
@@ -48,7 +51,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
