@@ -26,7 +26,7 @@
   <a href="https://www.instagram.com/washonrails/">
     <img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" target="_blank" />
   </a>&ensp;
-  <a href="https://www.instagram.com/washonrails/">
+  <a href="https://discord.gg/6xpCq6YY">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" target="_blank" />
   </a>&ensp;
  
