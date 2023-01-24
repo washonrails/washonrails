@@ -11,7 +11,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=washonrails&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-## ✨ Connect on Networks
+## 🚀 Connect with me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/washonrails/">
@@ -26,10 +26,16 @@
  
   <br>
   
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img src="https://profile-counter.glitch.me/washonrails/count.svg" /></p> 
-<br>
+  <a href="https://milind.bio.link/" >
+    <img src = "http://github-readme-streak-stats.herokuapp.com?user=washonrails&theme=monokai&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=DE37C1">
+  </a>
 </div>
 
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img src="https://profile-counter.glitch.me/washonrails/count.svg" /></p> 
+  <br>
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=524EB1&height=120&section=footer"/>
