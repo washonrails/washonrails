@@ -56,6 +56,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"></code>
+<code><img height="20" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+
 </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=524EB1&height=120&section=footer"/>
