@@ -48,6 +48,7 @@
 <div align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://vectorwiki.com/images/ZzFcA__bulma.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -60,6 +61,7 @@
 <code><img height="20" src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 
+  
 </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=524EB1&height=120&section=footer"/>
