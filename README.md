@@ -14,7 +14,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=washonrails&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-## 🦊 Connect with me 
+<hr>
+
+<p align="center">
+  <b> 🦊 Connect with me </b>
+</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/washonrails/">
