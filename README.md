@@ -3,7 +3,7 @@
 <p align="center">
   <h1 text-align="center" align="center"> 
     <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
-    Hi little lost , i'am wash web developer 
+    Hello boyz , i'am wash web developer 
   </h1>
 </p>
 
