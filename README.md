@@ -41,11 +41,6 @@
   </a>
 </div>
 
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img src="https://count.getloli.com/get/@:washonrails?theme=NSFW" alt=":washonrails" /></p> 
-  <br>
-</div>
   
 <div align="center">
 <p align="center">
