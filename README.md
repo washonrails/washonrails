@@ -1,17 +1,14 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=524EB1&height=120&section=header"/>
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I am Wallace
 
-<p align="center">
-  <h1 text-align="center" align="center"> 
-    <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> 
-    Hello boyz , i'am wash Full Stack Developer
-  </h1>
-</p>
+<img align="right" height=200 width=200 alt="Catpuccino gif" src="https://raw.githubusercontent.com/EdenEast/EdenEast/main/assets/coffee-cat.gif" />
+
+I am programmer, interested in games, animes and code. I am interested in optimizing my
+workflows and creating my own linuxs rices. I am an avid javascript and Void user.
 
 
-![notify-banner](https://user-images.githubusercontent.com/28717686/209453572-aa7523b5-2b30-43bc-87f4-ac2a2ad7edf0.png)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=washonrails&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<p align="right">
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=washonrails&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=washonrails&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 <p align="center">
@@ -63,5 +60,3 @@
 </p>  
                                                                                                                                                       
 </div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=524EB1&height=120&section=footer"/>
