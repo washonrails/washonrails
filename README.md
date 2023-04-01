@@ -1,14 +1,9 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I am Wallace
-
 <img align="right" height=200 width=200 alt="Catpuccino gif" src="https://raw.githubusercontent.com/EdenEast/EdenEast/main/assets/coffee-cat.gif" />
-
-I am programmer, interested in games, animes and code. I am interested in optimizing my
-workflows and creating my own linuxs rices. I am an avid javascript and Void user.
-
 
 <p align="right">
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=washonrails&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=washonrails&layout=compact&langs_count=8&theme=algolia"/>
+
 </p>
 
 <p align="center">
@@ -55,8 +50,11 @@ workflows and creating my own linuxs rices. I am an avid javascript and Void use
   <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" >   
   <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >   
   <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" >   
-  <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" > 
-  
+  <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >
+    <br>
+    <br>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=HydraVim&repo=HydraVim&theme=dracula" />
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=washonrails&repo=dotfiles&theme=dracula"/>
 </p>  
                                                                                                                                                       
 </div>
