@@ -54,7 +54,7 @@
     <br>
     <br>
    <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=HydraVim&repo=HydraVim&theme=dracula" />
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=washonrails&repo=dotfiles&theme=dracula"/>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=washonrails&repo=CJRM&theme=dracula"/>
 </p>  
                                                                                                                                                       
 </div>
