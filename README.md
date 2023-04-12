@@ -48,8 +48,6 @@
   <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >
     <br>
     <br>
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=HydraVim&repo=HydraVim&theme=dracula" />
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=washonrails&repo=CJRM&theme=dracula"/>
 </p>  
                                                                                                                                                       
 </div>
