@@ -1,13 +1,8 @@
-<img align="right" height=200 width=200 alt="Catpuccino gif" src="https://raw.githubusercontent.com/EdenEast/EdenEast/main/assets/coffee-cat.gif" />
+<img align="right" height=120 width=120 alt="Catpuccino gif" src="https://raw.githubusercontent.com/EdenEast/EdenEast/main/assets/coffee-cat.gif" />
 
-<p align="right">
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=washonrails&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=washonrails&layout=compact&langs_count=8&theme=algolia"/>
-
-</p>
 
 <p align="center">
-  <b> 🦊 Connect with me </b>
+  Hi,  im Wallace another programmer.
 </p>
 
 <div align="center">
