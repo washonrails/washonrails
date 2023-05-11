@@ -1,4 +1,4 @@
-<img align="right" height=120 width=120 alt="Catpuccino gif" src="https://raw.githubusercontent.com/EdenEast/EdenEast/main/assets/coffee-cat.gif" /> 
+<img align="right" height=120 width=120 alt="Catpuccino gif"  src="https://raw.githubusercontent.com/EdenEast/EdenEast/main/assets/coffee-cat.gif" /> 
 
 
 <p align="center">
