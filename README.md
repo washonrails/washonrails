@@ -31,16 +31,13 @@
 <div align="center">
 <p align="center">
   <img align="center" alt="Matheus-Cpp" height="40" width="50"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
-  <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" >
   <img align="center" alt="Matheus-C" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
   <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
   <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
-  <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
-  <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://skillicons.dev/icons?i=php" >            
-  <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" >            
-  <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rails/rails-plain.svg" >
+  <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://skillicons.dev/icons?i=php" >
+  <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" >            
+  <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-plain.svg" >
   <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" >
-  <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firebase/firebase-plain.svg" >
   <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" >   
   <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" >   
   <img align="center" alt="Matheus-Py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" >   
